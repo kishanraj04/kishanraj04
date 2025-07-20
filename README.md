@@ -1,3 +1,15 @@
+<!-- Animated Name -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Kishan+Raj;Full+Stack+Developer;Real-Time+App+Builder+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+<!-- Trophy Banner -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kishanraj04&theme=onedark&title=Stars,Followers,Repositories,Commits,Issues,PullRequest&margin-w=10&no-frame=true" />
+</p>
+
+---
+
 # 💫 About Me:
 🚀 Passionate Full Stack Developer | Real-Time App Enthusiast  
 🌱 Currently diving deep into the **MERN Stack** & **Real-Time Web Applications**  
@@ -6,6 +18,9 @@
 💬 Ask me about: **MongoDB**, **Express.js**, **React.js**, **Node.js**  
 📧 Reach me at: **kishuraj1111@gmail.com**  
 🎮 Fun Fact: I love building and debugging multiplayer real-time applications!
+
+---
+
 
 ---
 
